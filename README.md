@@ -1,2 +1,2 @@
 # stynemouth.github.com
-JJ website
+Jerusalem Jammers website
