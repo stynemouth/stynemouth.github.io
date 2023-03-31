@@ -1,0 +1,134 @@
+@charset "utf-8";
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #CEFFCE;
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+	background-image: url(assets/images/background/background_stripe.gif);
+	background-attachment: fixed;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #FF0000;
+	margin: 0px;
+}
+p {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+
+
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	color: #000000;
+	margin: 0px;
+}
+iframe {
+	border: solid 1px #006414;
+	float: nne;
+
+}
+#wrapper {
+	width: 700px;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	border-color: #008200;
+	border-width: 1px;
+	border-style: solid;
+	border-top-width: 0px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+.dances_01 {
+	width: 350px;
+	float: left;
+	background-color: #E8FBE3;
+}
+.dances_02 {
+	background-color: #E8FBE3;
+	float: none;
+}
+.dances_03 {
+	width: 350px;
+	float: left;
+	background-color: #FFFFFF;
+}
+.dances_04 {
+	background-color: #FFFFFF;
+}
+.danceouts_01 {
+	width: 350px;
+	float: left;
+}
+.danceouts-all {
+	margin-bottom: 50px;
+
+}
+
+.danceouts {
+	clear: both;
+}
+
+.danceouts_02 {
+
+}
+
+#logo {
+	float: none;
+	border-style: solid;
+	border-color: #006414;
+	border-width: 1px;
+	padding: 5px;
+	background-color: #DDF8D5;
+}
+#navigation {
+	margin-top: 15px;
+	width: 284px;
+	color: #000000;
+	padding: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #006414;
+	background-color: #DAFAD3;
+	font-weight: bold;
+}
+#active  {
+	text-decoration: underline;
+}
+
+#practice_times {
+	float: right;
+	width: 255px;
+	border-style: none;
+	border-width: 1px;
+	border-color: #006414;
+	padding: 0px;
+}
+#contact_top {
+	float: right;
+	margin-top: 15px;
+	text-align: right;
+}
+
+h3 {
+	margin: 0px;
+	font-weight: bold;
+	color: #00B324;
+}
+#navigation a {
+	text-decoration: none;
+	color: #000000;
+}
+.white {
+	background-color: #D2F7C8;
+}
